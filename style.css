@@ -1,4 +1,70 @@
 .img{
-    margin: 60px;
-    padding: 60px;
+    width: 35%;
+    height: 400px;
+    padding: 150px;
+    float: left;
+    display: inline-block;
+}
+
+.box{
+    text-align: center;
+    width: 70%;
+    padding-top: 150px;
+}
+
+.textbox{
+    padding: 10px;
+    margin: 5px;
+    width: 150px;
+}
+
+.login{
+    margin-top: 10px;
+    width: 175px;
+    color: white;
+    background-color: darkgray;
+}
+
+.signin-w-gg{
+    width: 175px;
+    background-color: white;
+    color: cornflowerblue;
+}
+
+.nav{
+    background-color: darkviolet;
+    padding: 10px;
+    width: 100%;
+}
+
+.nav a{
+    color: darkgrey;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.nav-brand{
+    width: 3%;
+    height: 1%;
+}
+
+
+.img2{
+    float: left;
+    width: 100px;
+    height: 130px;
+    margin : 100px;
+}
+
+.box1{
+    text-align: center;
+    background-color: darkgray;
+    margin: 100px;
+    height: 300px;
+}
+
+.inbox1{
+    float: right;
+    width: 5%;
+    
 }
